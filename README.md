@@ -8,8 +8,6 @@
 - <strong>Python3 + </strong>
 
 ### Installation & Running
-<pre>
-git clone https://github.com/thetechnohack/Student-Management-System/
 
 cd Student-Management-System
 
